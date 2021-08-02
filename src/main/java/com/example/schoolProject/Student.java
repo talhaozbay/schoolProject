@@ -26,8 +26,6 @@ public class Student {
     @Column(name = "gpa", nullable = true)
     private double gpa;
 
-    // asdfasdf
-
     @Column(name = "number", nullable = true)
     private String number;
 
